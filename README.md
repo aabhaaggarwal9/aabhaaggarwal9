@@ -2,9 +2,9 @@
 
 ## 🚀 About Me
 
-🎓 I am Aabha Aggarwal, a **Full Stack Web Developer** (specializing in **React Applications**). I am currently working in **Capgemini** actively looking for more opportunities.
+🎓 I am Aabha Aggarwal, a **Software Developer**. I have around 2 years of working experience as Developer and I am actively looking for new opportunities.
 
-👨‍💻 I enjoy working on developing applications in React. I am really enthusiastic about learning new technologies.
+👨‍💻 I enjoy working on developing applications in Java and related technologies. I am really enthusiastic about learning new technologies.
 
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills.
 
@@ -18,8 +18,6 @@
 
 ### Front-End Development
 
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
