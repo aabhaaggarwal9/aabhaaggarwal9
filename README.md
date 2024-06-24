@@ -2,9 +2,9 @@
 
 ## 🚀 About Me
 
-🎓 I am Aabha Aggarwal, a **Software Developer**. I have around 2 years of working experience as Developer and I am actively looking for new opportunities.
+🎓 I am Aabha Aggarwal, a **Software Developer**. I have 2 years of working experience as Java Developer and I am actively looking for new opportunities.
 
-👨‍💻 I enjoy working on developing applications in Java and related technologies. I am really enthusiastic about learning new technologies.
+👨‍💻 I enjoy working on developing applications in Java Full stack and related technologies. I am really enthusiastic about learning new technologies.
 
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills.
 
